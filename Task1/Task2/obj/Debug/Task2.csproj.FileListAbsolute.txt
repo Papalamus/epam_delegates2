@@ -1,0 +1,6 @@
+C:\Для дела\Проекты\epam_training\Delegates\Task1\Task1\Task2\bin\Debug\Task2.exe.config
+C:\Для дела\Проекты\epam_training\Delegates\Task1\Task1\Task2\bin\Debug\Task2.exe
+C:\Для дела\Проекты\epam_training\Delegates\Task1\Task1\Task2\bin\Debug\Task2.pdb
+C:\Для дела\Проекты\epam_training\Delegates\Task1\Task1\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Для дела\Проекты\epam_training\Delegates\Task1\Task1\Task2\obj\Debug\Task2.exe
+C:\Для дела\Проекты\epam_training\Delegates\Task1\Task1\Task2\obj\Debug\Task2.pdb
